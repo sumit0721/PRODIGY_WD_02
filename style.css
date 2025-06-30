@@ -66,19 +66,6 @@ button:hover {
   transform: scale(1.05);
 }
 
-.back-link {
-  display: block;
-  margin-top: 10px;
-  color: #00ffe7;
-  text-decoration: none;
-  font-weight: bold;
-  transition: color 0.3s;
-}
-
-.back-link:hover {
-  color: #a2fff2;
-}
-
 .lap-list {
   list-style: none;
   color: #fff;
